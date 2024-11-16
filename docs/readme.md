@@ -1,12 +1,12 @@
-# Arduino RS485 library
+# LiquidCrystal I2C library
 
 
-The Arduino RS485 library enables you to send and receive data using the RS-485 standard with Arduino&reg; RS485 Shields, like the MKR 485 Shield. Please refer to the [MKR RS485 Shield](https://www.arduino.cc/en/Guide/MKR485Shield) documentation for the specific settings about half, full duplex, and termination.
-
-This library supports the MAX3157 and equivalent chipsets. 
+Lib criada para utilização do display LCD com modulo I2C para facilitar 
+a exibição dos dados para o projeto da disciplina de Sistemas Embarcados
+que tem como finalidade a criação de um modelo funcional de uma gangorra.
 
 To use this library:
 
 ```
-#include <ArduinoRS485.h>
+#include <driver_lcd_i2c.h>
 ```
