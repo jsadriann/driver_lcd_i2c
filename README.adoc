@@ -2,9 +2,5 @@
 :repository-name: driver_lcd_i2c
 
 = {repository-name} Library for ESP32 =
-
-image:https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/esp32_wroom_32.jpg["ESP32 Board", link="https://www.espressif.com/en/products/socs/esp32"]
-image:https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/esp32-chip.jpg["ESP32 Chip", link="https://www.espressif.com/en/products/socs/esp32"]
-image:https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/esp32_wroom_32_mod.jpg["ESP32-WROOM-32", link="https://www.espressif.com/en/products/modules/esp32-wroom-32"]
 Essa biblioteca foi criada para controlar um display lcd i2c para ser usando na disciplina de sistemas embarcados
 
