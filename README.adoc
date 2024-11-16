@@ -3,9 +3,9 @@
 
 = {repository-name} Library for esp32 =
 
-image:https://github.com/{repository-owner}/{repository-name}/actions/workflows/check-arduino.yml/badge.svg["Check Arduino status", link="https://github.com/{repository-owner}/{repository-name}/actions/workflows/check-arduino.yml"]
-image:https://github.com/{repository-owner}/{repository-name}/actions/workflows/compile-examples.yml/badge.svg["Compile Examples status", link="https://github.com/{repository-owner}/{repository-name}/actions/workflows/compile-examples.yml"]
-image:https://github.com/{repository-owner}/{repository-name}/actions/workflows/spell-check.yml/badge.svg["Spell Check status", link="https://github.com/{repository-owner}/{repository-name}/actions/workflows/spell-check.yml"]
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/LCD_Display_in_Microwave_Oven.jpg/800px-LCD_Display_in_Microwave_Oven.jpg["LCD Display Example", link="https://www.arduino.cc/reference/en/libraries/liquidcrystal_i2c/"]
+image:https://upload.wikimedia.org/wikipedia/commons/9/97/I2C.svg["I2C Protocol", link="https://www.i2c-bus.org/"]
+image:https://upload.wikimedia.org/wikipedia/commons/9/92/ESP32_WROOM_Dev_Kit_v1.jpg["ESP32 Board", link="https://www.espressif.com/en/products/socs/esp32"]
 
 
 Essa biblioteca foi criada para controlar um display lcd i2c para ser usando na disciplina de sistemas embarcados
