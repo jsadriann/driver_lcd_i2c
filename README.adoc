@@ -3,9 +3,8 @@
 
 = {repository-name} Library for ESP32 =
 
-image:https://upload.wikimedia.org/wikipedia/commons/2/29/LCD_Display_in_Microwave_Oven.jpg["LCD Display", link="https://www.arduino.cc/reference/en/libraries/liquidcrystal_i2c/"]
-image:https://upload.wikimedia.org/wikipedia/commons/9/97/I2C.svg["I2C Protocol", link="https://www.i2c-bus.org/"]
-image:https://upload.wikimedia.org/wikipedia/commons/9/92/ESP32_WROOM_Dev_Kit_v1.jpg["ESP32 Board", link="https://www.espressif.com/en/products/socs/esp32"]
-
+image:https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/esp32_wroom_32.jpg["ESP32 Board", link="https://www.espressif.com/en/products/socs/esp32"]
+image:https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/esp32-chip.jpg["ESP32 Chip", link="https://www.espressif.com/en/products/socs/esp32"]
+image:https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/esp32_wroom_32_mod.jpg["ESP32-WROOM-32", link="https://www.espressif.com/en/products/modules/esp32-wroom-32"]
 Essa biblioteca foi criada para controlar um display lcd i2c para ser usando na disciplina de sistemas embarcados
 
